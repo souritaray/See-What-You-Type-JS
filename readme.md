@@ -15,9 +15,11 @@ Less than half an hour.
 ## Demo
 
 
+![See What You Type - Google Chrome 15-10-2022 22_22_16](https://user-images.githubusercontent.com/100030958/195998898-be314051-717a-4a23-92ca-fb6d2ad709d2.png)
+
 
 ## Live link
-
+[See What You Type](https://see-what-you-type-souritaray.netlify.app/)
 
 
 ## Contact me on:
